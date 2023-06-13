@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android CheckBox Example</string>
+    <string name="select_programming_language">Select Programming Language</string>
+    <string name="java">JAVA</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="python">Python</string>
+</resources>
